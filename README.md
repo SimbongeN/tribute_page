@@ -13,6 +13,7 @@ Welcome to the Linus Torvalds Tribute Webpage repository! This webpage is a trib
   
   - **@media Queries:** Utilizing @media queries to implement responsive design, adapting the layout and styling based on different screen sizes.
 
+### View https://simbongen.github.io/tribute_page/ 
 ## How to Use
 
 1. Clone the repository to your local machine: https://github.com/SimbongeN/tribute_page
